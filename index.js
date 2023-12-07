@@ -36,7 +36,7 @@ if (firstNumber === null) {
 }
 //!3
 
-let twonumber = prompt("Введіть число");
+const twonumber = prompt("Введіть число");
 
 if (twonumber === null) {
     alert("ок...");
